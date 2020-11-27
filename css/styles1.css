@@ -1,0 +1,120 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  color: white;
+  margin: 0px;
+  margin-bottom: 30px;
+  font-family: "Agency FB";
+}
+h2{
+  color: white;
+  margin: 0px;
+  font-family: "Agency FB";
+  font-weight: 300;
+}
+.h1font{
+font-family:"Roboto";
+color: #323643
+}
+.h1h2{
+  position: relative;
+  top: 50%;
+  transform: translateX(0%) translateY(-50%);
+  text-align: center;
+}
+.h1h2__{
+  position: relative;
+  top: 40%;
+  transform: translateX(0%) translateY(-50%);
+  text-align: center;
+}
+
+.projects{
+  width: 100%;
+  height: 650px;
+  background-size: cover;
+  background-position: center;
+}
+.works-text{
+  width: 1200px;
+  margin-left: 100px;
+  margin-top: 120px;
+  font-family: "Agency FB";
+}
+.white{
+  width: 100%;
+  height: 1100px;
+}
+body{
+  margin: 0px;
+}
+.contact{
+  width: 100%;
+  height: 1000px;
+  background-size: cover;
+  background-position: center;
+}
+
+.footer_container{
+  padding: 0 2em;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  width: 100%;
+  height: 100px;
+  background-color: #333333;
+}
+.footer_text{
+  margin-left: 100px;
+  color: white;
+  font-family: "Agency FB";
+}
+.images{
+  border-style: 0;
+  vertical-align: top;
+  float: left;
+  margin-top: 100px;
+}
+.button_div{
+  text-align: center;
+}
+.button_wrapper{
+  margin-top: 50px;
+  position: relative;
+  width: 1400px;
+  height: 50px;
+}
+.button{
+  letter-spacing: 3px;
+  font-family: "Montserrat";
+  padding: 13px 29px;
+  font-size: 14px;
+  line-height: 17px;
+  border-radius: 25px;
+  border: none;
+  background: white;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.button:hover{
+  background: #2176ff;
+  color: white;
+}
+.button2{
+  letter-spacing: 3px;
+  font-family: "Montserrat";
+  padding: 13px 29px;
+  font-size: 14px;
+  line-height: 17px;
+  border-radius: 25px;
+  border: none;
+  background: #2176ff;
+}
+.HOME{
+  color: #d8d8d8;
+  font-family: 'Montserrat';
+  font-size: 13px;
+}

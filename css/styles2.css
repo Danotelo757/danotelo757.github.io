@@ -1,0 +1,176 @@
+*{
+  box-sizing: border-box;
+}
+.white{
+  width: 100%;
+  height: 1200px;
+}
+body{
+  margin: 0;
+}
+.Right_Side{
+  width: 540px;
+  float: left;
+}
+
+.Left-Side{
+  float: left;
+  width: 500px;
+  margin-right: 40px;
+}
+.off_white{
+  float: left;
+  width: 100%;
+  background-color: #f8f8f8;
+}
+.white2{
+;
+}
+.More_Projects, .More_Projects_texts{
+  margin-bottom: 50px;
+  text-align: center;
+}
+.off2{
+
+  float: left;
+  width: 1300px;
+  margin-left: 100px;
+}
+.Deliverables{
+  margin-bottom: 30px;
+}
+.Deliverables_text{
+  color: #747a87;
+  font-size: 18px;
+}
+.Abj-Kd{
+  width: 1200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: "Agency FB";
+  color: #747a87;
+  box-sizing: border-box;
+  float: left;
+}
+.p1{
+  margin-bottom: 30px;
+}
+.right_side{
+  float: left;
+  width: 450px;
+}
+.A2K_img{
+  float: left;
+  width:579px; height:1030px;
+  margin-right: 100px;
+}
+.a2kimg{
+  width: 100%;
+  height: 100%;
+}
+h3{
+  font-family: "Roboto";
+  font-weight: bold;
+}
+p,.p2{
+  font-size:18px;
+  line-height: 150%;
+}
+
+.p2{
+  clear: left;
+  float: left;
+  margin-bottom: 10px;
+}
+ .i3{
+   float: left;
+   margin-right: 10px;
+ }
+
+ .d3{
+   float: left;
+ }
+ .contact{
+   clear: left;
+   width: 100%;
+   height: 1000px;
+   background-size: cover;
+   background-position: center;
+ }
+ .h1h2__{
+   position: relative;
+   top: 40%;
+   transform: translateX(0%) translateY(-50%);
+   text-align: center;
+ }
+ h1{
+   color: white;
+   margin: 0px;
+   margin-bottom: 30px;
+   font-family: "Agency FB";
+ }
+ h2{
+   color: white;
+   margin: 0px;
+   font-family: "Agency FB";
+   font-weight: 300;
+ }
+ .button_wrapper{
+   margin-top: 50px;
+   width: 1400px;
+   text-align: center;
+ }
+ .button{
+   letter-spacing: 3px;
+   font-family: "Montserrat";
+   padding: 13px 29px;
+   font-size: 14px;
+   line-height: 17px;
+   border-radius: 25px;
+   border: none;
+   background: white;
+   transition: 0.3s;
+   cursor: pointer;
+ }
+ .button:hover{
+   background: #2176ff;
+   color: white;
+ }
+ .button2{
+   letter-spacing: 3px;
+   font-family: "Montserrat";
+   padding: 13px 29px;
+   font-size: 14px;
+   line-height: 17px;
+   border-radius: 25px;
+   border: none;
+   background: #2176ff;
+ }
+
+
+footer{
+  clear: left;
+  background-color: red;
+}
+.footer_container{
+  clear: left;
+  padding: 0 2em;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  width: 100%;
+  height: 100px;
+  background-color: #333333;
+}
+.footer_text{
+  margin-left: 100px;
+  color: white;
+  font-family: "Agency FB";
+}
+.HOME{
+  color: #d8d8d8;
+  font-family: 'Montserrat';
+  font-size: 13px;
+}
